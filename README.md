@@ -8,17 +8,42 @@ A beautifully designed e-commerce app built using **Flutter** and **GetX**, feat
 
 ## 📸 Screenshots
 
-| Home 🏠 | Favorites ❤️ |
-|--------|--------------|
-| ![Home](Screenshots/homescreen.png) | ![Favorites](Screenshots/favoritescreen.png) |
+<table>
+  <tr>
+    <td align="center"><b>🏠 Home</b></td>
+    <td align="center"><b>❤️ Favorites</b></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/homescreen.png" width="250"/></td>
+    <td><img src="Screenshots/favouritescreen.png" width="250"/></td>
+  </tr>
+</table>
 
-| Cart 🛒 | Product Details ℹ️ |
-|--------|---------------------|
-| ![Cart](Screenshots/cart.png) | ![Product Details](Screenshots/productdetail.png) |
+<br/>
 
-| Notifications 🔔 | Settings ⚙️ |
-|------------------|--------------|
-| ![Notifications](Screenshots/notificationscreen.png) | ![Settings](Screenshots/settingsscreen.png) |
+<table>
+  <tr>
+    <td align="center"><b>🛒 Cart</b></td>
+    <td align="center"><b>ℹ️ Product Details</b></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/cart.png" width="250"/></td>
+    <td><img src="Screenshots/productdetail.png" width="250"/></td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center"><b>🔔 Notifications</b></td>
+    <td align="center"><b>⚙️ Settings</b></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/notificationscreen.png" width="250"/></td>
+    <td><img src="Screenshots/settingsscreen.png" width="250"/></td>
+  </tr>
+</table>
 
 ---
 
