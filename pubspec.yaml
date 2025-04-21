@@ -1,0 +1,69 @@
+name: ecommerce_app
+description: "A new Flutter project."
+
+# Prevents accidental publishing to pub.dev
+publish_to: "none"
+
+# Version info
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # iOS style icons
+  cupertino_icons: ^1.0.8
+
+  # State management
+  get:
+
+  # Responsive UI
+  flutter_screenutil: ^5.0.2
+
+  # Local storage
+  shared_preferences: ^2.1.0
+
+  # SVG support
+  flutter_svg: ^1.1.6
+
+  # Animations
+  flutter_animate: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+  mockito:
+
+  integration_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/app_icon.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/images/app_icon_foreground.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/vectors/
+    - assets/fonts/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 700
