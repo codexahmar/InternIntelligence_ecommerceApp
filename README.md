@@ -84,7 +84,7 @@ This Flutter E-commerce UI provides a ready-to-use template for online shopping 
 
 If you have feedback or suggestions, feel free to connect with me:
 
-- 📧 Email: ahmaryarkhan.dev@gmail.com  
+- 📧 Email: codexahmar@gmail.com  
 - 💼 LinkedIn: [Ahmaryar Khan](https://www.linkedin.com/in/ahmaryarkhan)
 
 ---
