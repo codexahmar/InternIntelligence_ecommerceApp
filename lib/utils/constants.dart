@@ -1,5 +1,4 @@
 class Constants {
-
   // assets images
   static const logo = 'assets/images/app_icon.png';
 
@@ -30,5 +29,6 @@ class Constants {
   static const product5 = 'assets/images/product5.png';
 
   static const noData = 'assets/images/no_data.png';
-
+  static const String stripePublishableKey = "";
+  static const String stripeSecretKey = "";
 }

@@ -32,6 +32,12 @@ dependencies:
   # Animations
   flutter_animate: ^4.0.0
 
+  # Stripe payment integration
+  flutter_stripe: ^11.5.0
+
+  # Dio for HTTP requests
+  dio: ^5.8.0+1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

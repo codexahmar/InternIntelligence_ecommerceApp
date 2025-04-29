@@ -2,7 +2,7 @@
 
 A beautifully designed e-commerce app built using **Flutter** and **GetX**, featuring a smooth and responsive UI optimized for online shopping experiences.
 
-> 🚀 Developed as part of my Flutter internship project with custom UI and functionality enhancements.
+> 🚀 Developed as part of my Flutter internship project with custom UI and functionality enhancements, including integrated Stripe payment support.
 
 ---
 
@@ -24,7 +24,7 @@ A beautifully designed e-commerce app built using **Flutter** and **GetX**, feat
 
 ## 📙 Overview
 
-This Flutter E-commerce UI provides a ready-to-use template for online shopping apps. With features like theme toggling, favorite management, and cart functionality, this app gives a solid foundation for any mobile shopping experience.
+This Flutter E-commerce UI provides a ready-to-use template for online shopping apps. With features like theme toggling, favorite management, cart functionality, and secure payments, this app gives a solid foundation for any mobile shopping experience.
 
 ---
 
@@ -36,6 +36,7 @@ This Flutter E-commerce UI provides a ready-to-use template for online shopping 
 - ℹ️ View product details  
 - 🔔 Notification panel  
 - 🌙 Dark theme support  
+- 💳 **Stripe Payment Gateway Integration** (Apple Pay, Google Pay, and Credit/Debit Cards)
 
 ---
 
@@ -46,6 +47,7 @@ This Flutter E-commerce UI provides a ready-to-use template for online shopping 
 - [`shared_preferences`](https://pub.dev/packages/shared_preferences) – Local storage  
 - [`flutter_animate`](https://pub.dev/packages/flutter_animate) – Animations  
 - [`flutter_svg`](https://pub.dev/packages/flutter_svg) – SVG icon support  
+- [`flutter_stripe`](https://pub.dev/packages/flutter_stripe) – Stripe payment integration  
 
 ---
 
