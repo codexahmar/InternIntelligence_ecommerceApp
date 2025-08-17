@@ -1,8 +1,7 @@
-# 🛍️ Flutter E-commerce App by Ahmaryar Khan
+# 🛍️ Flutter E-commerce App 
 
 A beautifully designed e-commerce app built using **Flutter** and **GetX**, featuring a smooth and responsive UI optimized for online shopping experiences.
 
-> 🚀 Developed as part of my Flutter internship project with custom UI and functionality enhancements, including integrated Stripe payment support.
 
 ---
 
